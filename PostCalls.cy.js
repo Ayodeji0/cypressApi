@@ -1,5 +1,4 @@
 
-
 describe('api testing',()=>{
 
     it("Approach1- Hard coded json object",()=>{
@@ -48,7 +47,6 @@ describe('api testing',()=>{
             })
         
     })
-
 
 
     it.only("Approach3- Using Fixture",()=>{
